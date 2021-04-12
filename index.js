@@ -18,7 +18,7 @@ module.exports = {
   disallowDuplicateAttributes: true,
   disallowAttributeTemplateString: 'all',
   disallowTemplateString: 'all',
-  maximumNumberOfLines: 300,
+  maximumNumberOfLines: 500,
   requireLowerCaseAttributes: true,
   requireLowerCaseTags: true,
   validateAttributeQuoteMarks: '"',
