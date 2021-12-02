@@ -22,5 +22,6 @@ module.exports = {
   requireLowerCaseAttributes: true,
   requireLowerCaseTags: true,
   validateAttributeQuoteMarks: '"',
-  validateDivTags: true
+  validateDivTags: true,
+  requireLineFeedAtFileEnd: true
 }
